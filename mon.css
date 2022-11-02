@@ -1,0 +1,99 @@
+body
+{
+    background-color: aliceblue;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+h1{
+    background-color: antiquewhite;
+    padding: 0%;
+    margin: 0%;
+height: 20px;}
+.poke1st
+{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: rgb(220, 234, 235);
+    height: 80px;
+    width: 15%;
+    margin-top: 4%;
+    margin-left: 40%;
+
+}
+.poke2st
+{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: rgb(226, 214, 214);
+    height: 80px;
+    width: 15%;
+    margin-left: 40%;
+
+    margin-top: 6%;}
+    .poke2st
+{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: rgb(226, 214, 214);
+    height: 80px;
+    width: 15%;
+    margin-left: 40%;
+
+    margin-top: 12%;}
+    .poke3st
+{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: rgb(226, 214, 214);
+    height: 80px;
+    width: 100%;
+    margin-left: 0%;
+
+    margin-top: 100%;}
+    .poke4st
+    {
+        justify-content: center;
+        position: absolute;
+        display: flex;
+        align-items: center;
+        background-color: rgb(226, 214, 214);
+        height: 80px;
+        width: 100%;
+        margin-left: 0%;
+    
+        margin-top: 90%;}
+        .poke5st
+        {
+            justify-content: center;
+            position: absolute;
+            display: flex;
+            align-items: center;
+            background-color: rgb(226, 214, 214);
+            height: 80px;
+            width: 100%;
+            margin-left: 0%;
+        
+            margin-top: 90%;}
+
+.stcol1{
+    background-color:rgb(255, 0, 0);
+    
+    
+
+}
+.stcol2{
+    background-color:rgb(255, 0, 0);
+    margin-bottom: 0%;
+    padding: 0%;
+
+}
